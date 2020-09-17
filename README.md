@@ -1,17 +1,17 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=romvoid95&theme=gruvbox&include_all_commits=true&show_icons=true")
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 767 Contributions in the Year 2020
+> 🏆 770 Contributions in the Year 2020
  > 
-> 📦 523.1 kB Used in Github's Storage 
+> 📦 523.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 53 Public Repositories
+> 📜 54 Public Repositories
  > 
 > 🔑 1 Private Repository 
  > 
