@@ -1,7 +1,7 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=romvoid95&theme=gruvbox&include_all_commits=true&show_icons=true")
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 **🐱 My Github Data** 
 
@@ -44,20 +44,16 @@ Sunday       23 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Java                     1 hr 13 mins        █████████████████░░░░░░░░   68.82% 
-Groovy                   32 mins             ███████░░░░░░░░░░░░░░░░░░   30.01% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Eclipse                  1 hr 46 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Interstellar-Exoplanets  1 hr 39 mins        ███████████████████████░░   93.28% 
-Galacticraft             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-CrashBot                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 46 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
