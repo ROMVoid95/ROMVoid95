@@ -1,7 +1,7 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=romvoid95&theme=gruvbox&include_all_commits=true&show_icons=true")
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My Github Data** 
 
