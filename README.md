@@ -79,7 +79,7 @@ Groovy                   1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/ROMVoid95/ROMVoid95/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/ROMVoid95/ROMVoid95/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
