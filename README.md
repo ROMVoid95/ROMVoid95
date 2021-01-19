@@ -1,11 +1,11 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=romvoid95&theme=gruvbox&include_all_commits=true&show_icons=true")
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 6 Contributions in the Year 2021
+> 🏆 13 Contributions in the Year 2021
  > 
 > 📦 569.7 kB Used in Github's Storage 
  > 
