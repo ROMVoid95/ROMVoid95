@@ -5,13 +5,13 @@
 
 **🐱 My Github Data** 
 
-> 🏆 172 Contributions in the Year 2021
+> 🏆 173 Contributions in the Year 2021
  > 
 > 📦 262.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 35 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -80,5 +80,5 @@ Groovy                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ROMVoid95/ROMVoid95/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/09/2021
+ Last Updated on 13/09/2021
 <!--END_SECTION:waka-->
