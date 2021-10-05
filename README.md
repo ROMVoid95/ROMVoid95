@@ -4,8 +4,7 @@
 ```text
 Week: 28 September, 2021 - 04 October, 2021
 
-Java         14 hrs 54 mins  █████████████████████▒░░░   85.50 % 
-Groovy       2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Properties   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Java         23 hrs 38 mins  ██████████████████████▒░░   89.00 % 
+Groovy       2 hrs 55 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
 ```
 <!--END_SECTION:waka-->
