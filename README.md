@@ -4,7 +4,7 @@
 ```text
 Week: 01 October, 2021 - 07 October, 2021
 
-Java         20 hrs 43 mins  ███████████████████████░░   91.87 % 
-Groovy       1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Java         19 hrs 23 mins  ███████████████████████░░   91.35 % 
+Groovy       1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 ```
 <!--END_SECTION:waka-->
