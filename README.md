@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 October, 2021 - 23 October, 2021
+Week: 18 October, 2021 - 24 October, 2021
 
 Groovy       5 hrs 18 mins   ██████████████▓░░░░░░░░░░   58.81 % 
 Java         2 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.33 % 
