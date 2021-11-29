@@ -2,12 +2,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2021 - 28 November, 2021
-
-Java         4 hrs 28 mins   ███████████████▒░░░░░░░░░   61.42 % 
-Groovy       2 hrs 25 mins   ████████▒░░░░░░░░░░░░░░░░   33.39 % 
-Properties   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Mustache     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
