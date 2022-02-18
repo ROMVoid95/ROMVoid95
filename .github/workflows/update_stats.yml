@@ -25,6 +25,7 @@ jobs:
         
         base: header, activity, community, repositories, metadata
         config_timezone: America/Chicago
+        config_display: columns
         plugin_activity: yes
         plugin_activity_skipped: TestRepo
         plugin_followup: yes
