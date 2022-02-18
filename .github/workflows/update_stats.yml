@@ -1,0 +1,38 @@
+name: Update
+
+on:
+  schedule:
+    - cron: '*/45 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+    - master
+
+jobs:
+  image-gen:
+    name: Generate image for GitHub Stats
+    runs-on: ubuntu-latest
+    steps:
+    - uses: lowlighter/metrics@v3.20
+      with:
+        token: ${{ secrets.TOKEN }}
+        
+        user: ROMVoid95
+        template: markdown
+        filename: README.md
+        markdown: TEMPLATE.md
+        markdown_cache: '.cache'
+        
+        base: header, activity, community, repositories, metadata
+        config_timezone: America/Chicago
+        plugin_activity: yes
+        plugin_activity_skipped: TestRepo
+        plugin_followup: yes
+        plugin_isocalendar: yes
+        plugin_languages: yes
+        plugin_habits: yes
+        plugin_lines: yes
+        plugin_lines_skipped: TestRepo
+        plugin_reactions: yes
+        plugin_notable: yes
+        plugin_notable_skipped: TestRepo
