@@ -19,10 +19,11 @@ jobs:
           filename: intro.svg
           token: ${{ secrets.TOKEN }}
           base: header
-          config_order: base.header
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_introduction: yes
+          plugin_introduction_title: yes
+          
           
       - name: Achievements
         if: ${{ success() || failure() }}
@@ -30,7 +31,7 @@ jobs:
         with:
           filename: achievements.svg
           token: ${{ secrets.TOKEN }}
-          base: ""
+          base: activity, metadata
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           config_order: base.activity, base.metadata, habits, followup
@@ -54,7 +55,7 @@ jobs:
         with:
           filename: general.svg
           token: ${{ secrets.TOKEN }}
-          base: ""
+          base: repositories, community
           config_order: base.repositories, base.community, languages, noteable
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
