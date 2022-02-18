@@ -55,7 +55,7 @@ jobs:
           filename: general.svg
           token: ${{ secrets.TOKEN }}
           base: header
-          config_order: base.header, isocalendar, languages, notable, habits, topics
+          config_order: base.header, notable, habits, languages
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_isocalendar: yes
@@ -68,3 +68,16 @@ jobs:
           plugin_notable: yes
           plugin_notable_repositories: yes
           repositories_skipped: TestRepo, RandomShit
+
+      - name: Isocalendar
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: isocalendar.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          config_order: isocalendar
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
