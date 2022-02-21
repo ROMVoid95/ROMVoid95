@@ -1,7 +1,1 @@
-[<img align="left" width="390" alt="INTRO" src="https://gist.githubusercontent.com/ROMVoid95/51e1d842043a244bc1cd7e86cd11d95d/raw/intro.svg">](#)
-[<img align="right" width="390" alt="ACHIV" src="https://gist.githubusercontent.com/ROMVoid95/51e1d842043a244bc1cd7e86cd11d95d/raw/intro2.svg">](#)
-
-[<img align="left" width="390" alt="GENERAL" src="https://gist.githubusercontent.com/ROMVoid95/51e1d842043a244bc1cd7e86cd11d95d/raw/general.svg">](#)
-[<img align="right" width="390" alt="ACHIEVEMENTS" src="https://gist.githubusercontent.com/ROMVoid95/51e1d842043a244bc1cd7e86cd11d95d/raw/achievements.svg">](#)
-<div align="center" width="100%"><img alt="CALENDER" src="https://gist.githubusercontent.com/ROMVoid95/51e1d842043a244bc1cd7e86cd11d95d/raw/isocalendar.svg"></div>
-
+![Metrics](https://metrics.lecoq.io/ROMVoid95?template=classic&repositories.skipped=TestRepo%2C%20ROMVoid95%2C%20RandomShit&achievements=1&habits=1&isocalendar=1&followup=1&traffic=1&introduction=1&lines=1&isocalendar.duration=full-year&habits.from=1000&habits.days=30&habits.facts=true&habits.charts=false&habits.trim=false&followup.sections=repositories&followup.indepth=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true&config.timezone=America%2FChicago&config.display=columns)
