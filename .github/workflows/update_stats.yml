@@ -65,10 +65,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: chartist
-          plugin_stargazers_worldmap: yes
-          plugin_stargazers_worldmap_token: ${{ secrets.GEOCODING_API_KEY }}
           plugin_traffic: yes
           repositories_skipped: ROMVoid95/TestGradleProject, ROMVoid95/TestRepo
 
