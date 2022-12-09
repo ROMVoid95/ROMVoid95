@@ -13,6 +13,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
+          
+          debug: yes
           user: ROMVoid95
           template: classic
           base: header, activity, community, repositories, metadata
