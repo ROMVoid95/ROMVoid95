@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: ROMVoid95/metrics@327b56bbcbc2db6ea95edd33b69776a5e06985df
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
