@@ -242,13 +242,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">ROMVoid95/Destiny-2-Discord-Bot</span>
+                            <span class="diff-handle">ROMVoid95/KeyWatcher</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">ROMVoid95/GalacticServerBot</span>
+                            <span class="diff-handle">ROMVoid95/GalaciBot</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">ROMVoid95/CustomGradleSupport</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -260,25 +266,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
+                            <span class="diff-handle">ROMVoid95/links</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
                             <span class="diff-handle">ROMVoid95/ReadOnlyGradle</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">ROMVoid95/ModEssentialTemplate</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
                             <span class="diff-handle">ROMVoid95/ReadOnlyAPI</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">ROMVoid95/generator-forgemod</span>
                         </div>
                     </section>
                     <section>
@@ -295,18 +295,27 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +32.7k</span> <span class="deleted"> -21.4k</span></div>
+                            <div class="diff-stats"><span class="added"> +3.53k</span> <span class="deleted">    -91</span></div>
                             <span> </span>
                         </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
+                            <div class="diff-stats"><span class="added"> +2.78k</span> <span class="deleted">    -17</span></div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +13.5k</span> <span class="deleted"> -6.26k</span></div>
+                            <div class="diff-stats"><span class="added"> +2.69k</span> <span class="deleted">     -1</span></div>
                             <span> </span>
                         </div>
                         <div class="field">
@@ -316,6 +325,15 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats"><span class="added"> +2.25k</span> <span class="deleted">    -84</span></div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats"><span class="added"> +2.05k</span> <span class="deleted">     -2</span></div>
                             <span> </span>
                         </div>
                         <div class="field">
@@ -334,24 +352,6 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats"><span class="added"> +1.43k</span> <span class="deleted">    -14</span></div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +1.43k</span> <span class="deleted">    -14</span></div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +1.13k</span> <span class="deleted">    -28</span></div>
                             <span> </span>
                         </div>
                     </section>
@@ -1520,7 +1520,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Dec 2022, 06:03:31 (timezone America/Chicago) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 11 Dec 2022, 12:03:26 (timezone America/Chicago) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
