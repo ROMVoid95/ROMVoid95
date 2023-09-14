@@ -67,6 +67,8 @@ jobs:
           plugin_notable_types: commit
           plugin_traffic: yes
           repositories_skipped: ROMVoid95/TestGradleProject, ROMVoid95/TestRepo
+          plugin_16personalities: yes
+          plugin_16personalities_url: https://www.16personalities.com/profiles/de80eaf8cf9a2
 
 ## OLD CONFIGS
 
