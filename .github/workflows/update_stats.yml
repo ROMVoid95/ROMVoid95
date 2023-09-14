@@ -69,6 +69,9 @@ jobs:
           repositories_skipped: ROMVoid95/TestGradleProject, ROMVoid95/TestRepo
           plugin_16personalities: yes
           plugin_16personalities_url: https://www.16personalities.com/profiles/de80eaf8cf9a2
+          plugin_16personalities_sections: profile, traits
+          plugin_licenses: yes
+          
 
 ## OLD CONFIGS
 
