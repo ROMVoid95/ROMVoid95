@@ -1,11 +1,14 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
+  push:
+    paths:
+      - '.github/workflows/**'
   schedule: [{cron: "0 */6 * * *"}]
   workflow_dispatch:
 jobs:
   github-metrics:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
@@ -51,7 +54,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: percentage
-          plugin_languages_ignored: CSS
+          plugin_languages_ignored: CSS, HTML, Go
           plugin_languages_limit: 8
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
@@ -67,51 +70,4 @@ jobs:
           plugin_notable_types: commit
           plugin_traffic: yes
           repositories_skipped: ROMVoid95/TestGradleProject, ROMVoid95/TestRepo
-          plugin_16personalities: yes
-          plugin_16personalities_url: https://www.16personalities.com/profiles/de80eaf8cf9a2
-          plugin_16personalities_sections: profile, traits
-          plugin_licenses: yes
           
-
-## OLD CONFIGS
-
-# name: Metrics
-# on:
-#   schedule: [{cron: "*/30 * * * *"}]
-#   workflow_dispatch:
-# jobs:
-#   github-metrics:
-#     runs-on: ubuntu-latest
-#     permissions:
-#       contents: write
-#     steps:
-#       - uses: lowlighter/metrics@latest
-#         with:
-#           token: ${{ secrets.TOKEN }}
-#           user: ROMVoid95
-#           template: classic
-#           base: header, activity, community, repositories, metadata
-#           config_timezone: America/Chicago
-#           plugin_achievements: yes
-#           plugin_achievements_display: compact
-#           plugin_achievements_secrets: yes
-#           plugin_achievements_threshold: X
-#           plugin_gists: yes
-#           plugin_languages: yes
-#           plugin_languages_analysis_timeout: 15
-#           plugin_languages_categories: markup, programming
-#           plugin_languages_colors: github
-#           plugin_languages_limit: 8
-#           plugin_languages_recent_categories: markup, programming
-#           plugin_languages_recent_days: 14
-#           plugin_languages_recent_load: 300
-#           plugin_languages_sections: most-used
-#           plugin_languages_threshold: 0%
-#           plugin_lines: yes
-#           plugin_lines_history_limit: 1
-#           plugin_lines_repositories_limit: 4
-#           plugin_lines_sections: base
-#           plugin_notable: yes
-#           plugin_notable_from: all
-#           plugin_notable_repositories: yes
-#           plugin_notable_types: pr
